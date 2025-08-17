@@ -1,13 +1,19 @@
-🤖 Training Outline
+🤖 
+<h1>Training Outline</h1>
 
-Day 1- IoT with Arduino + MQTT + Smart City
-1.  Set up Arduino IDE and connect environment sensors.
-2.  Install/configure MQTT broker (Mosquitto)
-3.  Publish and subscribe to smart city sensor topics
+<h2>Day 1- IoT with Arduino + MQTT + Smart City</h2>
+<ol>
+  <li>Set up Arduino IDE and connect environment sensors.</li>
+  <li> Install/configure MQTT broker (Mosquitto).</li>
+  <li>Publish and subscribe to smart city sensor topics.</li>
+</ol>
 
-Day 2- Python for Data Cleaning + OpenCV
-1. Numpy
-2. Pandas
-3. Plotting using matplotlib
-4. Scikit-learn libraries include anomaly
-5. Detection using an isolation forest model
+📊
+<h2>Day 2- Python for Data Cleaning + OpenCV</h2>
+<ul>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Plotting using matplotlib</li>
+  <li>Scikit-learn libraries include anomaly</li>
+  <li>Detection using an isolation forest model</li> 
+</ul>
