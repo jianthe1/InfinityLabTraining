@@ -1,4 +1,4 @@
-Training Outline
+🤖 Training Outline
 
 Day 1- IoT with Arduino + MQTT + Smart City
 1.  Set up Arduino IDE and connect environment sensors.
