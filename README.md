@@ -9,11 +9,24 @@
 </ol>
 
 📊
-<h2>Day 2- Python for Data Cleaning + OpenCV</h2>
+<h2>Day 2</h2>
+<h3>Part 1 -Python for Data Cleaning + OpenCV</h3>
 <ul>
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Plotting using matplotlib</li>
   <li>Scikit-learn libraries include anomaly</li>
   <li>Detection using an isolation forest model</li> 
+</ul>
+
+🎯
+<h3>Part 2- Webcam Project</h3>
+<ol>
+  <li>Use OpenCV to capture and process images/videos from a webcam.</li>
+</ol>
+
+<h2>Day 3</h2>
+<h3>LLM Chatbot Development & VLM KT - PCB Visual Inspection</h3>
+<ul>
+  <li>LLM basic using the Gemini API to answer based on IoT data.</li>
 </ul>
