@@ -1,4 +1,4 @@
-🤖 
+:aries:
 <h1>Training Outline</h1>
 
 <h2>Day 1- IoT with Arduino + MQTT + Smart City</h2>
@@ -8,7 +8,7 @@
   <li>Publish and subscribe to smart city sensor topics.</li>
 </ol>
 
-📊
+:taurus:
 <h2>Day 2</h2>
 <h3>Part 1 -Python for Data Cleaning + OpenCV</h3>
 <ul>
@@ -19,12 +19,13 @@
   <li>Detection using an isolation forest model</li> 
 </ul>
 
-🎯
+:gemini:
 <h3>Part 2- Webcam Project</h3>
 <ol>
   <li>Use OpenCV to capture and process images/videos from a webcam.</li>
 </ol>
 
+:cancer:
 <h2>Day 3</h2>
 <h3>LLM Chatbot Development & VLM KT - PCB Visual Inspection</h3>
 <ul>
