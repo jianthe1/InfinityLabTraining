@@ -1,4 +1,4 @@
-:aries:
+:signal_strength: :aries:
 <h1>Training Outline</h1>
 
 <h2>Day 1- IoT with Arduino + MQTT + Smart City</h2>
