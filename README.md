@@ -31,3 +31,10 @@
 <ul>
   <li>LLM basic using the Gemini API to answer based on IoT data.</li>
 </ul>
+
+:virgo:
+<h2>Day 4</h2>
+<h3>RAG with Ollama and Qdrant</h3>
+<ul>
+  <li>Basic RAG zero-shot prompting with Ollama and QDrant Cloud Vector Database.</li>
+</ul>
